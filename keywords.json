@@ -1,0 +1,59 @@
+{
+  "\\carpeta-prueba" : [
+    {
+      "isFolder" : true,
+      "name" : "\\escuela",
+      "keywords" : ["programacion-avanzada", "matematicas", "ios", "apis", "a00819362", "A00819362"],
+      "dependents" : [
+        {
+          "isFolder" : true,
+          "name" : "\\programacion-avanzada",
+          "keywords" : ["mision", "progra-avanzada", "progra", "programacion", "p-", "P-"],
+          "dependents" : {}
+        },
+        {
+          "isFolder" : true,
+          "name" : "\\matematicas",
+          "keywords" : ["mate", "computacional", "mate-computacional"],
+          "dependents" : {}
+        },
+        {
+          "isFolder" : true,
+          "name" : "\\ios",
+          "keywords" : ["minireto", "mini-reto", "tarea", "ios", "xcode"],
+          "dependents" : {}
+        },
+        {
+          "isFolder" : true,
+          "name" : "\\apis",
+          "keywords" : ["lectura", "avance", "apis-proyecto-final"],
+          "dependents" : {}
+        }
+      ]
+    },
+    {
+      "isFolder" : true,
+      "name" : "\\documentos",
+      "keywords" : ["personal", "facebook", "tramites", "recibos"],
+      "dependents" : [
+        {
+          "isFolder" : true,
+          "name" : "\\personal",
+          "keywords" : ["tramites", "documentos-personales", "personal"],
+          "dependents" : {}
+        },
+        {
+          "isFolder" : true,
+          "name" : "\\facebook",
+          "keywords" : ["Altair", "offer", "Offer", "Relocation", "Letter", "BAL", "Housing", "facebook", "Facebook", "FB", "fb"],
+          "dependents" : {}
+        }
+      ]
+    },
+    {
+      "isFolder" : true,
+      "name" : "\\extra",
+      "keywords" : null
+    }
+  ]
+}
